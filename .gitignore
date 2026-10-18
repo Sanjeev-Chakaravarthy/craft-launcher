@@ -9,3 +9,5 @@ builds/
 /temp
 /craft-fonts
 result
+config.bat
+node_modules
